@@ -1,6 +1,6 @@
 # A-Personalized-Twitch-Resources-Recommendation-Engine
 To use it, you should create your own Amazon EC2 account, and update your username, password in the ApplicationConfig.java file.
-<p align="center"><img src="pictures/demo-1.jpg" alt="Demo Picture"></p>
+<p align="center"><img src="https://github.com/rongxu1998/A-Personalized-Twitch-Resources-Recommendation-Engine/blob/main/demo-1.jpg"></p>
 
 ### Overview
 Users can search and retrieve real-time Twitch resources using Twitch API and make their favorite collection. They can then get recommended based on trending games or their like history. To learn more details, please see the [demo video](https://www.youtube.com/watch?v=y7w9gKh-MhQ).
