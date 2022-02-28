@@ -15,7 +15,7 @@ Users can search and retrieve real-time Twitch resources using Twitch API and ma
 
 ### Main Features
 
-<p align="center"><img src="pictures/demo-2.jpg" alt="Demo Picture"></p>
+<p align="center"><img src="https://github.com/rongxu1998/A-Personalized-Twitch-Resources-Recommendation-Engine/blob/main/demo-2.jpg"></p>
 
 * Supports basic login/logout function
 * Users can search any game they like and get some top results grouped by streams/videos/clips, and view them on Twitch.tv
